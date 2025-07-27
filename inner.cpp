@@ -1,9 +1,7 @@
-titleDirective:UKRAINE(slight);
+titleDirective(slight);
 function()*
-  TRIGGER():point.["battery":"wire"];
+  TRIGGER(slight):point.[titleDirective];
 TRIGGER(function());
-charge == 0;
-charge - charge;
-function(charge[0]);
-charge[1000];
-charge().point;
+function(TRIGGER[0]);
+charge[1000] == function(TRIGGER[1000]);
+charge(1000).point;
