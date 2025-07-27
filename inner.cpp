@@ -1,9 +1,9 @@
 titleDirective:UKRAINE(slight);
-function():["TRIGGER"]*
+function()*
   TRIGGER():point.["battery":"wire"];
-TRIGGER(function(charge++));
-charge == "battery" + "wire";
-charge++ + charge++ + charge++;
+TRIGGER(function());
+charge == 0;
+charge - charge;
 function(charge[0]);
 charge[1000];
-point.charge();
+charge().point;
