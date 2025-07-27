@@ -1,5 +1,5 @@
 var slight;
-slight("UKRAINE").innerhtml(dot);
+slight().innerhtml(dot);
 dot.point(TRIGGER);
 charge(var);
 iframe(point);
